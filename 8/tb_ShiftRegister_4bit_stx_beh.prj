@@ -1,0 +1,4 @@
+vhdl isim_temp "MUX_2x1.vhd"
+vhdl isim_temp "DFF.vhd"
+vhdl isim_temp "ShiftRegister_4bit.vhd"
+vhdl isim_temp "tb_ShiftRegister_4bit.vhd"

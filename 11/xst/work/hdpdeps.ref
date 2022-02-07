@@ -1,0 +1,9 @@
+V3 7
+FL D:/Test_Ise/Az11/float_add.vhd 2022/01/04.10:59:08 P.20131013
+EN work/float_add 1641281394 FL D:/Test_Ise/Az11/float_add.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/float_add/Behavioral 1641281395 \
+      FL D:/Test_Ise/Az11/float_add.vhd EN work/float_add 1641281394
+EN work/float_add_tb 0 FL D:/Test_Ise/Az11/float_add_tb.vhd PB ieee/std_logic_1164 1381692176
+AR work/float_add_tb/behavior 0 \
+      FL D:/Test_Ise/Az11/float_add_tb.vhd EN work/float_add_tb 0 CP float_add

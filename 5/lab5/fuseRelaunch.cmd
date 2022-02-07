@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Test_Ise/lab5/BCD_tb_isim_beh.exe" -prj "D:/Test_Ise/lab5/BCD_tb_beh.prj" "work.BCD_tb" 

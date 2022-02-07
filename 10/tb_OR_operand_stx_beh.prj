@@ -1,0 +1,2 @@
+vhdl isim_temp "OR_operand.vhd"
+vhdl isim_temp "tb_OR_operand.vhd"

@@ -1,0 +1,28 @@
+Command line:
+   tb_ShiftRight_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56475
+
+Wed Dec 15 13:24:50 2021
+
+
+ Elaboration Time: 0.140625 sec
+
+ Current Memory Usage: 5154.44 Meg
+
+ Total Signals          : 4
+ Total Nets             : 16
+ Total Signal Drivers   : 9
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 9
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 499
+
+ Total Simulation Time: 0.140625 sec
+
+ Current Memory Usage: 5154.44 Meg
+
+Wed Dec 15 13:25:01 2021
+

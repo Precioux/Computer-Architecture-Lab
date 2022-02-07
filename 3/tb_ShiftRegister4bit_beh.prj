@@ -1,0 +1,3 @@
+vhdl work "D_FF.vhd"
+vhdl work "ShiftRegister4bit.vhd"
+vhdl work "tb_ShiftRegister4bit.vhd"

@@ -1,0 +1,15 @@
+AR zero behavioral D:/Test_Ise/lab10/Zero.vhd sub00/vhpl14 1639567443
+AR shift_left behavioral D:/Test_Ise/lab10/Shift_left.vhd sub00/vhpl06 1639567435
+EN shiftright NULL D:/Test_Ise/lab10/ShiftRight.vhd sub00/vhpl07 1639567436
+EN shift_left NULL D:/Test_Ise/lab10/Shift_left.vhd sub00/vhpl05 1639567434
+EN full_adder_vhdl_code NULL D:/Test_Ise/lab10/full_adder_vhdl_code.vhd sub00/vhpl00 1639567430
+EN zero NULL D:/Test_Ise/lab10/Zero.vhd sub00/vhpl13 1639567442
+AR or_operand behavioral D:/Test_Ise/lab10/OR_operand.vhd sub00/vhpl12 1639567441
+AR and_bits behavioral D:/Test_Ise/lab10/And_Bits.vhd sub00/vhpl10 1639567439
+AR shiftright behavioral D:/Test_Ise/lab10/ShiftRight.vhd sub00/vhpl08 1639567437
+EN or_operand NULL D:/Test_Ise/lab10/OR_operand.vhd sub00/vhpl11 1639567440
+AR full_adder_vhdl_code behavioral D:/Test_Ise/lab10/full_adder_vhdl_code.vhd sub00/vhpl01 1639567431
+EN and_bits NULL D:/Test_Ise/lab10/And_Bits.vhd sub00/vhpl09 1639567438
+EN adder_8bits NULL D:/Test_Ise/lab10/Adder_8bits.vhd sub00/vhpl03 1639567432
+EN alu NULL D:/Test_Ise/lab10/ALU.vhd sub00/vhpl02 1639567444
+AR adder_8bits behavioral D:/Test_Ise/lab10/Adder_8bits.vhd sub00/vhpl04 1639567433

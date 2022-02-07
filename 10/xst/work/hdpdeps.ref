@@ -1,0 +1,42 @@
+V3 31
+FL D:/Test_Ise/lab10/Adder_8bits.vhd 2021/12/13.21:28:22 P.20131013
+EN work/Adder_8bits 1639567432 FL D:/Test_Ise/lab10/Adder_8bits.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Adder_8bits/Behavioral 1639567433 \
+      FL D:/Test_Ise/lab10/Adder_8bits.vhd EN work/Adder_8bits 1639567432 \
+      CP full_adder_vhdl_code
+FL D:/Test_Ise/lab10/ALU.vhd 2021/12/15.14:53:39 P.20131013
+EN work/ALU 0 FL D:/Test_Ise/lab10/ALU.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ALU/Behavioral 0 \
+      FL D:/Test_Ise/lab10/ALU.vhd EN work/ALU 0 CP Adder_8bits CP Shift_left \
+      CP ShiftRight CP And_Bits CP OR_operand CP Zero
+FL D:/Test_Ise/lab10/And_Bits.vhd 2021/12/13.16:47:47 P.20131013
+EN work/And_Bits 1639567438 FL D:/Test_Ise/lab10/And_Bits.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/And_Bits/Behavioral 1639567439 \
+      FL D:/Test_Ise/lab10/And_Bits.vhd EN work/And_Bits 1639567438
+FL D:/Test_Ise/lab10/full_adder_vhdl_code.vhd 2021/12/13.21:26:20 P.20131013
+EN work/full_adder_vhdl_code 1639567430 \
+      FL D:/Test_Ise/lab10/full_adder_vhdl_code.vhd PB ieee/std_logic_1164 1381692176
+AR work/full_adder_vhdl_code/Behavioral 1639567431 \
+      FL D:/Test_Ise/lab10/full_adder_vhdl_code.vhd EN work/full_adder_vhdl_code 1639567430
+FL D:/Test_Ise/lab10/OR_operand.vhd 2021/12/13.20:08:50 P.20131013
+EN work/OR_operand 1639567440 FL D:/Test_Ise/lab10/OR_operand.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/OR_operand/Behavioral 1639567441 \
+      FL D:/Test_Ise/lab10/OR_operand.vhd EN work/OR_operand 1639567440
+FL D:/Test_Ise/lab10/ShiftRight.vhd 2021/12/13.20:30:31 P.20131013
+EN work/ShiftRight 1639567436 FL D:/Test_Ise/lab10/ShiftRight.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ShiftRight/Behavioral 1639567437 \
+      FL D:/Test_Ise/lab10/ShiftRight.vhd EN work/ShiftRight 1639567436
+FL D:/Test_Ise/lab10/Shift_left.vhd 2021/12/13.20:31:19 P.20131013
+EN work/Shift_left 1639567434 FL D:/Test_Ise/lab10/Shift_left.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Shift_left/Behavioral 1639567435 \
+      FL D:/Test_Ise/lab10/Shift_left.vhd EN work/Shift_left 1639567434
+FL D:/Test_Ise/lab10/Zero.vhd 2021/12/13.16:54:07 P.20131013
+EN work/Zero 1639567442 FL D:/Test_Ise/lab10/Zero.vhd PB ieee/std_logic_1164 1381692176
+AR work/Zero/Behavioral 1639567443 \
+      FL D:/Test_Ise/lab10/Zero.vhd EN work/Zero 1639567442

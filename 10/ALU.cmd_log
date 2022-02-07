@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Test_Ise/lab10/ALU.xst" -ofn "D:/Test_Ise/lab10/ALU.syr" 
+xst -intstyle ise -ifn "D:/Test_Ise/lab10/ALU.xst" -ofn "D:/Test_Ise/lab10/ALU.syr" 

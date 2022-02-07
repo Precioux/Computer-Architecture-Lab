@@ -1,0 +1,5 @@
+set -tmpdir "D:/Test_Ise/lab2/xst/projnav.tmp"
+set -xsthdpdir "D:/Test_Ise/lab2/xst"
+elaborate
+-ifn decoder_3to8.prj
+-ifmt mixed

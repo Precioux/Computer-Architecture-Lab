@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/office/Desktop/New folder (2)/lab-4/lab-4/MealyMachine_tb_isim_beh.exe" -prj "C:/Users/office/Desktop/New folder (2)/lab-4/lab-4/MealyMachine_tb_beh.prj" "work.MealyMachine_tb" 

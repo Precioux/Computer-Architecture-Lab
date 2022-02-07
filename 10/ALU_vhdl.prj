@@ -1,0 +1,8 @@
+vhdl work "D:\Test_Ise\lab10\full_adder_vhdl_code.vhd"
+vhdl work "D:\Test_Ise\lab10\Zero.vhd"
+vhdl work "D:\Test_Ise\lab10\Shift_left.vhd"
+vhdl work "D:\Test_Ise\lab10\ShiftRight.vhd"
+vhdl work "D:\Test_Ise\lab10\OR_operand.vhd"
+vhdl work "D:\Test_Ise\lab10\And_Bits.vhd"
+vhdl work "D:\Test_Ise\lab10\Adder_8bits.vhd"
+vhdl work "D:\Test_Ise\lab10\ALU.vhd"

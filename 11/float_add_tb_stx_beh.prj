@@ -1,0 +1,2 @@
+vhdl isim_temp "float_add.vhd"
+vhdl isim_temp "float_add_tb.vhd"

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Test_Ise/Az11/float_add_tb.xst" -ofn "D:/Test_Ise/Az11/float_add_tb.syr" 

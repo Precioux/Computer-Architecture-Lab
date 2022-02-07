@@ -1,0 +1,4 @@
+vhdl work "MUX_2x1.vhd"
+vhdl work "DFF.vhd"
+vhdl work "ShiftRegister_4bit.vhd"
+vhdl work "tb_ShiftRegister_4bit.vhd"

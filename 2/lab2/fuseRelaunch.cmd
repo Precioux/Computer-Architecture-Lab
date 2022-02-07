@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Test_Ise/lab2/Mux_4x1_byDecoder_tb_isim_beh.exe" -prj "D:/Test_Ise/lab2/Mux_4x1_byDecoder_tb_beh.prj" "work.Mux_4x1_byDecoder_tb" 

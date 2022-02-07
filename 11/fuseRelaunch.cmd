@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Test_Ise/Az11/float_add_tb_isim_beh.exe" -prj "D:/Test_Ise/Az11/float_add_tb_beh.prj" "work.float_add_tb" 

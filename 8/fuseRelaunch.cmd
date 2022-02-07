@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/M.novin/Desktop/CA Labs/lab-8/tb_ShiftRegister_4bit_isim_beh.exe" -prj "C:/Users/M.novin/Desktop/CA Labs/lab-8/tb_ShiftRegister_4bit_beh.prj" "work.tb_ShiftRegister_4bit" 

@@ -1,0 +1,3 @@
+vhdl isim_temp "Mux_4x1.vhd"
+vhdl isim_temp "comparator_2bit.vhd"
+vhdl isim_temp "comparator_2bit_tb.vhd"

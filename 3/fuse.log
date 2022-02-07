@@ -1,0 +1,23 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/office/Desktop/dars/trm5/computer organization and design/lab/3/lab-3/lab-3/tb_ShiftRegister4bit_isim_beh.exe -prj C:/Users/office/Desktop/dars/trm5/computer organization and design/lab/3/lab-3/lab-3/tb_ShiftRegister4bit_beh.prj work.tb_ShiftRegister4bit 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/office/Desktop/dars/trm5/computer organization and design/lab/3/lab-3/lab-3/D_FF.vhd" into library work
+Parsing VHDL file "C:/Users/office/Desktop/dars/trm5/computer organization and design/lab/3/lab-3/lab-3/ShiftRegister4bit.vhd" into library work
+Parsing VHDL file "C:/Users/office/Desktop/dars/trm5/computer organization and design/lab/3/lab-3/lab-3/tb_ShiftRegister4bit.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity D_FF [d_ff_default]
+Compiling architecture behavioral of entity ShiftRegister4bit [shiftregister4bit_default]
+Compiling architecture behavior of entity tb_shiftregister4bit
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 VHDL Units
+Built simulation executable C:/Users/office/Desktop/dars/trm5/computer organization and design/lab/3/lab-3/lab-3/tb_ShiftRegister4bit_isim_beh.exe
+Fuse Memory Usage: 34188 KB
+Fuse CPU Usage: 890 ms

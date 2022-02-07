@@ -1,0 +1,2 @@
+vhdl isim_temp "JK_FF_ResetAsynch.vhd"
+vhdl isim_temp "JK_FF_ResetAsync_tb.vhd"

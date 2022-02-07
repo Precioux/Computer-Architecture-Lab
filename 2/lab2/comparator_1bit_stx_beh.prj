@@ -1,0 +1,2 @@
+vhdl isim_temp "xor_gate.vhd"
+vhdl isim_temp "comparator_1bit.vhd"

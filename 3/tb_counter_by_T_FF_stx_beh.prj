@@ -1,0 +1,3 @@
+vhdl isim_temp "T_FF_rstAsynchronous.vhd"
+vhdl isim_temp "counter_by_T_FF.vhd"
+vhdl isim_temp "tb_counter_by_T_FF.vhd"

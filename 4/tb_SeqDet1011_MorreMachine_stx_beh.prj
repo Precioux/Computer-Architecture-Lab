@@ -1,0 +1,2 @@
+vhdl isim_temp "SeqDet1011_MooreMachine.vhd"
+vhdl isim_temp "tb_SeqDet1011_MorreMachine.vhd"

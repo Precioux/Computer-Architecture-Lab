@@ -1,0 +1,28 @@
+Command line:
+   tb_SeqDet1011_MealyMachine_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  62295
+
+Mon Nov 01 23:15:40 2021
+
+
+ Elaboration Time: 0.125 sec
+
+ Current Memory Usage: 5153.77 Meg
+
+ Total Signals          : 8
+ Total Nets             : 5
+ Total Signal Drivers   : 4
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 366
+
+ Total Simulation Time: 0.171875 sec
+
+ Current Memory Usage: 4681.91 Meg
+
+Mon Nov 01 23:22:57 2021
+

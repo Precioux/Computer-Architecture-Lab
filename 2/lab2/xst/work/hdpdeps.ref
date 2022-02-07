@@ -1,0 +1,9 @@
+V3 7
+EN work/adder 0 FL D:/Test_Ise/lab2/adder.vhd PB ieee/std_logic_1164 1381692176
+AR work/adder/Behavioral 0 \
+      FL D:/Test_Ise/lab2/adder.vhd EN work/adder 0 CP decoder_3to8
+FL D:/Test_Ise/lab2/decoder_3to8.vhd 2021/10/13.14:38:52 P.20131013
+EN work/decoder_3to8 1634123335 FL D:/Test_Ise/lab2/decoder_3to8.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/decoder_3to8/Behavioral 1634123336 \
+      FL D:/Test_Ise/lab2/decoder_3to8.vhd EN work/decoder_3to8 1634123335

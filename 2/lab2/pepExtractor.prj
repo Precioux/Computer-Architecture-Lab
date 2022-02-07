@@ -1,0 +1,2 @@
+work	"Decoder_2x4.vhd"
+work	"Mux_4x1_byDecoder.vhd"

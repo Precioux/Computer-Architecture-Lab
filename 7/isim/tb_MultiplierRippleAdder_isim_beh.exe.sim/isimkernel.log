@@ -1,0 +1,28 @@
+Command line:
+   tb_MultiplierRippleAdder_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53173
+
+Fri Jan 07 14:09:28 2022
+
+
+ Elaboration Time: 0.109375 sec
+
+ Current Memory Usage: 5153.8 Meg
+
+ Total Signals          : 121
+ Total Nets             : 81
+ Total Signal Drivers   : 70
+ Total Blocks           : 21
+ Total Primitive Blocks : 16
+ Total Processes        : 69
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 441
+
+ Total Simulation Time: 0.125 sec
+
+ Current Memory Usage: 5153.8 Meg
+
+Fri Jan 07 14:09:42 2022
+

@@ -1,0 +1,3 @@
+vhdl work "FA.vhd"
+vhdl work "RCA.vhd"
+vhdl work "RCA_tb.vhd"

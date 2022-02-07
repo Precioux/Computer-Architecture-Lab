@@ -1,0 +1,31 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o D:/Test_Ise/lab5/BCD_tb_isim_beh.exe -prj D:/Test_Ise/lab5/BCD_tb_beh.prj work.BCD_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Test_Ise/lab5/xor_gate.vhd" into library work
+Parsing VHDL file "D:/Test_Ise/lab5/and_gate.vhd" into library work
+Parsing VHDL file "D:/Test_Ise/lab5/or_gate.vhd" into library work
+Parsing VHDL file "D:/Test_Ise/lab5/HA.vhd" into library work
+Parsing VHDL file "D:/Test_Ise/lab5/FA.vhd" into library work
+Parsing VHDL file "D:/Test_Ise/lab5/RippleCarryAdder.vhd" into library work
+Parsing VHDL file "D:/Test_Ise/lab5/BCD_Adder.vhd" into library work
+Parsing VHDL file "D:/Test_Ise/lab5/BCD_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity and_gate [and_gate_default]
+Compiling architecture behavioral of entity xor_gate [xor_gate_default]
+Compiling architecture behavioral of entity HA [ha_default]
+Compiling architecture behavioral of entity or_gate [or_gate_default]
+Compiling architecture behavioral of entity FA [fa_default]
+Compiling architecture behavorial of entity RippleCarryAdder [ripplecarryadder_default]
+Compiling architecture behavioral of entity BCD_Adder [bcd_adder_default]
+Compiling architecture behavior of entity bcd_tb
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 17 VHDL Units
+Built simulation executable D:/Test_Ise/lab5/BCD_tb_isim_beh.exe
+Fuse Memory Usage: 30212 KB
+Fuse CPU Usage: 749 ms

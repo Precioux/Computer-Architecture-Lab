@@ -1,0 +1,8 @@
+vhdl work "xor_gate.vhd"
+vhdl work "and_gate.vhd"
+vhdl work "or_gate.vhd"
+vhdl work "HA.vhd"
+vhdl work "FA.vhd"
+vhdl work "RippleCarryAdder.vhd"
+vhdl work "BCD_Adder.vhd"
+vhdl work "BCD_tb.vhd"

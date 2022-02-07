@@ -1,0 +1,7 @@
+work	"BCD_Adder.vhd"
+work	"FA.vhd"
+work	"HA.vhd"
+work	"RippleCarryAdder.vhd"
+work	"and_gate.vhd"
+work	"or_gate.vhd"
+work	"xor_gate.vhd"
